@@ -23,3 +23,6 @@ vectors
 vectors_input
 vectors_output
 totient
+input_from_text
+output_to_text
+exercises
